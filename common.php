@@ -5,3 +5,7 @@ function copy() {
 
 	return $ret;
 }
+
+function update() {
+	return "updated";
+}
